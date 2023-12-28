@@ -26,8 +26,6 @@ By prioritizing CPU mining, BTCturquoise aims to level the playing field, welcom
 Sustainability and Innovation
 BTCturquoise's emphasis on CPU mining not only enhances network decentralization but also promotes a more sustainable approach to cryptocurrency mining. The reduced energy consumption associated with CPU mining fosters a greener and more environmentally friendly mining process.
 
-Get Involved
-Contributions to BTCturquoise are welcomed and encouraged! Refer to CONTRIBUTING.md for guidelines on how to contribute to the project.
 ----------------------------------------------------------------------------------------------
 Coin Properties:
 
@@ -47,6 +45,9 @@ Website URL
 https://
 Testing
 ------------------------------------------------------------------------------------------------
+
+Get Involved
+Contributions to BTCturquoise are welcomed and encouraged! Refer to CONTRIBUTING.md for guidelines on how to contribute to the project.
 
 Testing and code review is the bottleneck for development; we get more pull
 requests than we can review and test on short notice. Please be patient and help out by testing
