@@ -46,26 +46,7 @@ https://
 Testing
 ------------------------------------------------------------------------------------------------
 
-Get Involved
-Contributions to BTCturquoise are welcomed and encouraged! Refer to CONTRIBUTING.md for guidelines on how to contribute to the project.
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test on short notice. Please be patient and help out by testing
-other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
-
-### Automated Testing
-
-Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
-submit new unit tests for old code. Unit tests can be compiled and run
-(assuming they weren't disabled in configure) with: `make check`. Further details on running
-and extending unit tests can be found in [/src/test/README.md](/src/test/README.md).
-
-There are also [regression and integration tests](/test), written
-in Python, that are run automatically on the build server.
-These tests can be run (if the [test dependencies](/test) are installed) with: `test/functional/test_runner.py`
-
-The Travis CI system makes sure that every pull request is built for Windows, Linux, and OS X, and that unit/sanity tests are run automatically.
+"This currency operates as a decentralized and open source system, meaning that there is no central entity responsible for its operation, development or management. As such, users participate in this network with full knowledge that there are no explicit guarantees or responsibilities by a centralized entity. The use of this currency and its associated software involves inherent risks, including the possibility of loss of coins or digital assets. Users take full responsibility for their actions when interacting with the network and accept that there are no guarantees of performance, stability or security. Users are urged to exercise due diligence, understand the risks involved and make informed decisions. Decentralization and the absence of a central authority mean that each individual is responsible for protecting their private keys, securing their digital assets, and carefully evaluating any participation in the network."
 
 ### Manual Quality Assurance (QA) Testing
 
