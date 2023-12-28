@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BTCturquoise Core
+Comment=BTCturquoise P2P Cryptocurrency
+Comment[de]=Verbinde mit dem BTCturquoise peer-to-peer Netzwerk
+Comment[fr]=BTCturquoise, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BTCturquoise, eşten eşe kriptografik sanal para birimi
+Exec=btcturquoise-qt %u
+Terminal=false
+Type=Application
+Icon=btcturquoise128
+MimeType=x-scheme-handler/btcturquoise;
+Categories=Office;Finance;

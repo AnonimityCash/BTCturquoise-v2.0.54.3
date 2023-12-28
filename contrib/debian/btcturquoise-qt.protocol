@@ -1,0 +1,11 @@
+[Protocol]
+exec=btcturquoise-qt '%u'
+protocol=btcturquoise
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

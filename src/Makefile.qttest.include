@@ -1,0 +1,81 @@
+# Copyright (c) 2013-2016 The BTCturquoise Core developers
+# Copyright (c) 2014-2018 The Dash Core developers
+# Copyright (c) 2020-2022 The BTCturquoise developers
+# Distributed under the MIT software license, see the accompanying
+# file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+bin_PROGRAMS += qt/test/test_btcturquoise-qt
+TESTS += qt/test/test_btcturquoise-qt
+
+TEST_QT_MOC_CPP = \
+  qt/test/moc_compattests.cpp \
+  qt/test/moc_rpcnestedtests.cpp \
+  qt/test/moc_trafficgraphdatatests.cpp \
+  qt/test/moc_uritests.cpp
+
+if ENABLE_WALLET
+TEST_QT_MOC_CPP += \
+  qt/test/moc_paymentservertests.cpp \
+  qt/test/moc_wallettests.cpp
+endif
+
+TEST_QT_H = \
+  qt/test/compattests.h \
+  qt/test/rpcnestedtests.h \
+  qt/test/uritests.h \
+  qt/test/paymentrequestdata.h \
+  qt/test/paymentservertests.h \
+  qt/test/trafficgraphdatatests.h \
+  qt/test/wallettests.h
+
+TEST_BTCTURQUOISE_CPP = \
+  test/test_btcturquoise.cpp
+
+TEST_BTCTURQUOISE_H = \
+  test/test_btcturquoise.h
+qt_test_test_btcturquoise_qt_CPPFLAGS = $(AM_CPPFLAGS) $(BTCTURQUOISE_INCLUDES) $(BTCTURQUOISE_QT_INCLUDES) \
+  $(QT_INCLUDES) $(QT_TEST_INCLUDES) $(PROTOBUF_CFLAGS)
+
+qt_test_test_btcturquoise_qt_SOURCES = \
+  qt/test/compattests.cpp \
+  qt/test/rpcnestedtests.cpp \
+  qt/test/test_main.cpp \
+  qt/test/uritests.cpp \
+  qt/test/trafficgraphdatatests.cpp \
+  $(TEST_QT_H) \
+  $(TEST_BTCTURQUOISE_CPP) \
+  $(TEST_BTCTURQUOISE_H)
+if ENABLE_WALLET
+qt_test_test_btcturquoise_qt_SOURCES += \
+  qt/test/paymentservertests.cpp \
+  qt/test/wallettests.cpp \
+  wallet/test/wallet_test_fixture.cpp
+endif
+
+nodist_qt_test_test_btcturquoise_qt_SOURCES = $(TEST_QT_MOC_CPP)
+
+qt_test_test_btcturquoise_qt_LDADD = $(LIBBTCTURQUOISEQT) $(LIBBTCTURQUOISE_SERVER)
+if ENABLE_WALLET
+qt_test_test_btcturquoise_qt_LDADD += $(LIBBTCTURQUOISE_UTIL) $(LIBBTCTURQUOISE_WALLET)
+endif
+if ENABLE_ZMQ
+qt_test_test_btcturquoise_qt_LDADD += $(LIBBTCTURQUOISE_ZMQ) $(ZMQ_LIBS)
+endif
+qt_test_test_btcturquoise_qt_LDADD += $(LIBBTCTURQUOISE_CLI) $(LIBBTCTURQUOISE_COMMON) $(LIBBTCTURQUOISE_UTIL) $(LIBBTCTURQUOISE_CONSENSUS) $(LIBBTCTURQUOISE_CRYPTO) $(LIBUNIVALUE) $(LIBLEVELDB) \
+  $(LIBLEVELDB_SSE42) $(LIBMEMENV) $(BACKTRACE_LIB) $(BOOST_LIBS) $(QT_DBUS_LIBS) $(QT_TEST_LIBS) $(QT_LIBS) \
+  $(QR_LIBS) $(PROTOBUF_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(LIBSECP256K1) \
+  $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS) $(BLS_LIBS)
+qt_test_test_btcturquoise_qt_LDFLAGS = $(LDFLAGS_WRAP_EXCEPTIONS) $(RELDFLAGS) $(AM_LDFLAGS) $(QT_LDFLAGS) $(LIBTOOL_APP_LDFLAGS) $(PTHREAD_FLAGS)
+qt_test_test_btcturquoise_qt_CXXFLAGS = $(AM_CXXFLAGS) $(QT_PIE_FLAGS)
+
+CLEAN_BTCTURQUOISE_QT_TEST = $(TEST_QT_MOC_CPP) qt/test/*.gcda qt/test/*.gcno
+
+CLEANFILES += $(CLEAN_BTCTURQUOISE_QT_TEST)
+
+test_btcturquoise_qt : qt/test/test_btcturquoise-qt$(EXEEXT)
+
+test_btcturquoise_qt_check : qt/test/test_btcturquoise-qt$(EXEEXT) FORCE
+	$(MAKE) check-TESTS TESTS=$^
+
+test_btcturquoise_qt_clean: FORCE
+	rm -f $(CLEAN_BTCTURQUOISE_QT_TEST) $(qt_test_test_btcturquoise_qt_OBJECTS)

@@ -1,0 +1,6 @@
+usr/local/bin/btcturquoise-qt usr/bin
+share/pixmaps/btcturquoise32.xpm usr/share/pixmaps
+share/pixmaps/btcturquoise16.xpm usr/share/pixmaps
+share/pixmaps/btcturquoise128.png usr/share/pixmaps
+debian/btcturquoise-qt.desktop usr/share/applications
+debian/btcturquoise-qt.protocol usr/share/kde4/services/

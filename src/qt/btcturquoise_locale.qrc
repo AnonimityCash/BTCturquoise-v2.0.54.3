@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/btcturquoise_ar.qm</file>
+        <file alias="bg">locale/btcturquoise_bg.qm</file>
+        <file alias="de">locale/btcturquoise_de.qm</file>
+        <file alias="en">locale/btcturquoise_en.qm</file>
+        <file alias="es">locale/btcturquoise_es.qm</file>
+        <file alias="fi">locale/btcturquoise_fi.qm</file>
+        <file alias="fr">locale/btcturquoise_fr.qm</file>
+        <file alias="it">locale/btcturquoise_it.qm</file>
+        <file alias="ja">locale/btcturquoise_ja.qm</file>
+        <file alias="ko">locale/btcturquoise_ko.qm</file>
+        <file alias="nl">locale/btcturquoise_nl.qm</file>
+        <file alias="pl">locale/btcturquoise_pl.qm</file>
+        <file alias="pt">locale/btcturquoise_pt.qm</file>
+        <file alias="ro">locale/btcturquoise_ro.qm</file>
+        <file alias="ru">locale/btcturquoise_ru.qm</file>
+        <file alias="sk">locale/btcturquoise_sk.qm</file>
+        <file alias="th">locale/btcturquoise_th.qm</file>
+        <file alias="tr">locale/btcturquoise_tr.qm</file>
+        <file alias="vi">locale/btcturquoise_vi.qm</file>
+        <file alias="zh_CN">locale/btcturquoise_zh_CN.qm</file>
+        <file alias="zh_TW">locale/btcturquoise_zh_TW.qm</file>
+    </qresource>
+</RCC>

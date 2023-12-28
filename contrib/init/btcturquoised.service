@@ -1,0 +1,22 @@
+[Unit]
+Description=BTCturquoise's distributed currency daemon
+After=network.target
+
+[Service]
+User=btcturquoisecore
+Group=btcturquoisecore
+
+Type=forking
+PIDFile=/var/lib/btcturquoised/btcturquoised.pid
+ExecStart=/usr/bin/btcturquoised -daemon -pid=/var/lib/btcturquoised/btcturquoised.pid \
+-conf=/etc/btcturquoisecore/btcturquoise.conf -datadir=/var/lib/btcturquoised -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

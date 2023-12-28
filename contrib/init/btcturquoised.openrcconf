@@ -1,0 +1,33 @@
+# /etc/conf.d/btcturquoised: config file for /etc/init.d/btcturquoised
+
+# Config file location
+#BTCTURQUOISED_CONFIGFILE="/etc/btcturquoisecore/btcturquoise.conf"
+
+# What directory to write pidfile to?  (created and owned by $BTCTURQUOISED_USER)
+#BTCTURQUOISED_PIDDIR="/var/run/btcturquoised"
+
+# What filename to give the pidfile
+#BTCTURQUOISED_PIDFILE="${BTCTURQUOISED_PIDDIR}/btcturquoised.pid"
+
+# Where to write btcturquoised data (be mindful that the blockchain is large)
+#BTCTURQUOISED_DATADIR="/var/lib/btcturquoised"
+
+# User and group to own btcturquoised process
+#BTCTURQUOISED_USER="btcturquoisecore"
+#BTCTURQUOISED_GROUP="btcturquoisecore"
+
+# Path to btcturquoised executable
+#BTCTURQUOISED_BIN="/usr/bin/btcturquoised"
+
+# Nice value to run btcturquoised under
+#BTCTURQUOISED_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#BTCTURQUOISED_OPTS=""
+
+# The timeout in seconds OpenRC will wait for btcturquoised to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+BTCTURQUOISED_SIGTERM_TIMEOUT=60
