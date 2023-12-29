@@ -6,7 +6,7 @@ BTCturquoise
 Core Latest v2.0.54.218
 ===========================
 
-|CI|master|develop|
+|master|develop|
 |-|-|-|
 
 Welcome to BTCturquoise, a blockchain network offering a compelling alternative to "Bitcoin" traditional cryptocurrencies. Built upon the foundation of Bitcoin but with notable enhancements, BTCturquoise is a peer-to-peer digital currency designed for efficiency CPU coin, decentralization, and inclusivity.
