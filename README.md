@@ -34,13 +34,13 @@ BTCturquoise's emphasis on CPU mining not only enhances network decentralization
 Coin Properties:
 
 Source branch: v2.0.54.3
-Algorithm: Ghostrider
-Coin name: BTCturquoise
-Coin abbreviation: BTCQ
-RPC port: 3333
-P2P port: 4444
-Block reward 5100 coins
-Coin supply: 21,000,000,000 coins
+Algorithm: Ghostrider -
+Coin name: BTCturquoise -
+Coin abbreviation: BTCQ -
+RPC port: 3333 -
+P2P port: 4444 -
+Block reward 5100 coins -
+Coin supply: 21,000,000,000 coins -
 Block Time: 150 SECONDS
 ------------------------------------------------------------------------------------------------
 Website URL
