@@ -41,7 +41,7 @@ Smartnode: 56% SMARTNODE
            29% MINER
            15% DEVELOPMENT
 Website URL
-https://
+https://btcturquoise.online
 Testing
 ------------------------------------------------------------------------------------------------
 
