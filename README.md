@@ -2,12 +2,11 @@
 ![btcturquoise (3)](https://github.com/AnonimityCash/BTCturquoise-v2.0.54.3/assets/144634520/866ad2e5-1db8-438b-a012-9e7ec231922c)
 
 
-BTCturquoise 
+BTCturquoise Coin
 Core Latest v2.0.54.218
 ===========================
 
 |master|develop|
-|-|-|-|
 
 Welcome to BTCturquoise, a blockchain network offering a compelling alternative to "Bitcoin" traditional cryptocurrencies. Built upon the foundation of Bitcoin but with notable enhancements, BTCturquoise is a peer-to-peer digital currency designed for efficiency CPU coin, decentralization, and inclusivity.
 
