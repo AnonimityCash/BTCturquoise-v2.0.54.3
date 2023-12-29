@@ -4,7 +4,7 @@ BTCturquoise Core Latest v2.0.54.218
 |CI|master|develop|
 |-|-|-|
 
-Welcome to BTCturquoise, a blockchain network offering a compelling alternative to traditional cryptocurrencies. Built upon the foundation of Bitcoin but with notable enhancements, BTCturquoise is a peer-to-peer digital currency designed for efficiency, decentralization, and inclusivity.
+Welcome to BTCturquoise, a blockchain network offering a compelling alternative to "Bitcoin" traditional cryptocurrencies. Built upon the foundation of Bitcoin but with notable enhancements, BTCturquoise is a peer-to-peer digital currency designed for efficiency CPU coin, decentralization, and inclusivity.
 
 CPU-Friendly Mining Algorithm: GhostRider
 Unlike Bitcoin's reliance on ASIC-dominated mining, BTCturquoise employs the GhostRider algorithm. This innovative approach encourages CPU mining, enabling broader participation without the need for specialized hardware. It fosters a more inclusive mining environment, promoting fairness and accessibility.
