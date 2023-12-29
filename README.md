@@ -1,8 +1,7 @@
 ![btcq (1)](https://github.com/AnonimityCash/BTCturquoise-v2.0.54.3/assets/144634520/37b0f657-4986-4124-9521-96915fbebe4e)
-![btcturquoise (3)](https://github.com/AnonimityCash/BTCturquoise-v2.0.54.3/assets/144634520/866ad2e5-1db8-438b-a012-9e7ec231922c)
 
 
-BTCturquoise Coin
+BTCturquoise 
 Core Latest v2.0.54.218
 ===========================
 
@@ -30,9 +29,11 @@ Sustainability and Innovation
 BTCturquoise's emphasis on CPU mining not only enhances network decentralization but also promotes a more sustainable approach to cryptocurrency mining. The reduced energy consumption associated with CPU mining fosters a greener and more environmentally friendly mining process.
 
 ----------------------------------------------------------------------------------------------
+![data-mining_12893554 (1) (1)](https://github.com/AnonimityCash/BTCturquoise-v2.0.54.3/assets/144634520/bd590080-5fad-43ea-8d63-a22b17edb274)
+
 Coin Properties:
 
-Source branch: v2.0.54.3
+Source branch: v2.0.54.3 -
 Algorithm: Ghostrider -
 Coin name: BTCturquoise -
 Coin abbreviation: BTCQ -
