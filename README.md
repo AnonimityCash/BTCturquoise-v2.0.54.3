@@ -1,4 +1,6 @@
-BTCturquoise Core Latest v2.0.54.218
+![btcq](https://github.com/AnonimityCash/BTCturquoise-v2.0.54.3/assets/144634520/100ffb0a-8d25-400f-ad97-04c860b94de8)
+BTCturquoise 
+Core Latest v2.0.54.218
 ===========================
 
 |CI|master|develop|
@@ -37,9 +39,7 @@ P2P port: 4444
 Block reward 5100 coins
 Coin supply: 21,000,000,000 coins
 Block Time: 150 SECONDS
-Smartnode: 56% SMARTNODE
-           29% MINER
-           15% DEVELOPMENT
+------------------------------------------------------------------------------------------------
 Website URL
 http://btcturquoise.online
 TESTING: WORK TREE: Website under construction, Block explorer under construction, Exchange solutions to be listed on XEGGEX Exchange.
