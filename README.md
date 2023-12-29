@@ -41,8 +41,8 @@ Smartnode: 56% SMARTNODE
            29% MINER
            15% DEVELOPMENT
 Website URL
-https://btcturquoise.online
-Testing
+http://btcturquoise.online
+TESTING: WORK TREE: Website under construction, Block explorer under construction, Exchange solutions to be listed on XEGGEX Exchange.
 ------------------------------------------------------------------------------------------------
 
 "This currency operates as a decentralized and open source system, meaning that there is no central entity responsible for its operation, development or management. As such, users participate in this network with full knowledge that there are no explicit guarantees or responsibilities by a centralized entity. The use of this currency and its associated software involves inherent risks, including the possibility of loss of coins or digital assets. Users take full responsibility for their actions when interacting with the network and accept that there are no guarantees of performance, stability or security. Users are urged to exercise due diligence, understand the risks involved and make informed decisions. Decentralization and the absence of a central authority mean that each individual is responsible for protecting their private keys, securing their digital assets, and carefully evaluating any participation in the network."
