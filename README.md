@@ -1,4 +1,6 @@
-![btcq](https://github.com/AnonimityCash/BTCturquoise-v2.0.54.3/assets/144634520/100ffb0a-8d25-400f-ad97-04c860b94de8)
+![BTCQ (2)](https://github.com/AnonimityCash/BTCturquoise-v2.0.54.3/assets/144634520/728c9ac7-ae69-4b9e-988b-569c9658d925)
+
+===========================
 BTCturquoise 
 Core Latest v2.0.54.218
 ===========================
