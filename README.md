@@ -2,7 +2,7 @@
 
 
 BTCturquoise 
-Core Latest v2.0.54.218
+Core Launch v2.0.54.218
 ===========================
 
 |master|develop|
