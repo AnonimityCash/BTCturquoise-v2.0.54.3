@@ -43,6 +43,7 @@ Block reward 5100 coins -
 Coin supply: 21,000,000,000 coins -
 Block Time: 150 SECONDS
 ------------------------------------------------------------------------------------------------
+POOL MINING: https://coinxpool.com/
 Website URL
 http://btcturquoise.online
 TESTING: WORK TREE: Website under construction, Block explorer under construction, Exchange solutions to be listed on XEGGEX Exchange.
