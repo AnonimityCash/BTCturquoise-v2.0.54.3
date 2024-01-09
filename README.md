@@ -64,7 +64,7 @@ BTCturquoise's emphasis on CPU mining not only enhances network decentralization
 | Email                | [developers@btcturquoise.online](mailto:developers@btcturquoise.online) |
 |----------------------|-------------------------------------------------------|
 | Twitter              | [Twitter](https://twitter.com/sum_sv)                  |
-| Discord              | [Discord Invite](https://discord.gg/DK9C7HXK)          |
+| Discord              | [Discord Invite]((https://discord.gg/XgxtcdUZDu))          |
 | Bitcointalk          | [Bitcointalk Forum](https://bitcointalk.org/index.php?topic=5480601.0) |
 
 TESTING: WORK TREE: Website under construction, Block explorer under construction.
