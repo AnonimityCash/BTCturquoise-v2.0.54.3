@@ -61,7 +61,6 @@ BTCturquoise's emphasis on CPU mining not only enhances network decentralization
 ------------------------------------------------------------------------------------------------
 ### Contact and Social Media Links:
 | Contact Method       | Link                                             |
-|----------------------|--------------------------------------------------|
 | Email                | [developers@btcturquoise.online](mailto:developers@btcturquoise.online) |
 |----------------------|-------------------------------------------------------|
 | Twitter              | [Twitter](https://twitter.com/sum_sv)                  |
