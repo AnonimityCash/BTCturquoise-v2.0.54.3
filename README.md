@@ -57,7 +57,7 @@ BTCturquoise's emphasis on CPU mining not only enhances network decentralization
 | Resource         | Link                                                 |
 |------------------|------------------------------------------------------|
 | Block Explorer   | [http://explorer.btcturquoise.online](http://explorer.btcturquoise.online) |
-| Website          | [http://btcturquoise.online](http://btcturquoise.online) |
+| Website          | [(https://btcturquoiseverse.com)](https://btcturquoiseverse.com) |
 ------------------------------------------------------------------------------------------------
 ### Contact and Social Media Links:
 
