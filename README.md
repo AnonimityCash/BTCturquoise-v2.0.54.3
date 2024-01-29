@@ -46,12 +46,13 @@ BTCturquoise's emphasis on CPU mining not only enhances network decentralization
 | Block Time               | 150 seconds                                 |
 
 ------------------------------------------------------------------------------------------------
-### Available Pools:
-| Pool Name             | Link                                              |
-|-----------------------|---------------------------------------------------|
-| RPlant                | [https://pool.rplant.xyz/](https://pool.rplant.xyz/) |
-| CoinXPool             | [https://coinxpool.com/](https://coinxpool.com/)   |
-| Coin Miners Info Pool | [https://pool.coin-miners.info/](https://pool.coin-miners.info/) |
+Available Pools:
+Pool Name               | Link
+------------------------|------------------------------------
+Mining Dutch            | [https://www.mining-dutch.nl/](https://www.mining-dutch.nl/)
+RPlant                  | [https://pool.rplant.xyz/](https://pool.rplant.xyz/)
+CoinXPool               | [https://coinxpool.com/](https://coinxpool.com/)
+Coin Miners Info Pool   | [https://pool.coin-miners.info/](https://pool.coin-miners.info/)
 
 ### Additional Resources:
 | Resource         | Link                                                 |
