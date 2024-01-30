@@ -53,6 +53,9 @@ Mining Dutch            | [https://www.mining-dutch.nl/](https://www.mining-dutc
 RPlant                  | [https://pool.rplant.xyz/](https://pool.rplant.xyz/)
 CoinXPool               | [https://coinxpool.com/](https://coinxpool.com/)
 Coin Miners Info Pool   | [https://pool.coin-miners.info/](https://pool.coin-miners.info/)
+YourMissingPool         | [https://your-missing-pool.com/](https://your-missing-pool.com/)
+ZergPool                | [https://zergpool.com/](https://zergpool.com/)
+
 
 ### Additional Resources:
 | Resource         | Link                                                 |
