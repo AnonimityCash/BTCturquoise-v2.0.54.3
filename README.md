@@ -60,7 +60,7 @@ ZergPool                | [https://zergpool.com/](https://zergpool.com/)
 ### Additional Resources:
 | Resource         | Link                                                 |
 |------------------|------------------------------------------------------|
-| Block Explorer   | [http://explorer.btcturquoise.online](http://explorer.btcturquoise.online) |
+| Block Explorer   | [https://explorer.btcturquoise.online](https://explorer.btcturquoise.online) |
 | Website          | [https://btcturquoise.com](https://btcturquoise.com) |
 ------------------------------------------------------------------------------------------------
 ### Contact and Social Media Links:
