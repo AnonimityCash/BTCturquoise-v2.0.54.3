@@ -68,7 +68,7 @@ ZergPool                | [https://zergpool.com/](https://zergpool.com/)
 | Contact Method       | Link                                             |
 |----------------------|-------------------------------------------------------|
 | Email                | [developers@btcturquoise.online](mailto:developers@btcturquoise.online) |
-| Twitter              | [Twitter](https://twitter.com/sum_sv)                  |
+| Twitter              | [Twitter](https://twitter.com/btcturquoise)                  |
 | Discord              | [Discord Invite](https://discord.gg/XgxtcdUZDu)          |
 | Bitcointalk          | [Bitcointalk Forum](https://bitcointalk.org/index.php?topic=5480601.0) |
 
