@@ -49,6 +49,7 @@ BTCturquoise's emphasis on CPU mining not only enhances network decentralization
 Available Pools:
 Pool Name               | Link
 ------------------------|------------------------------------
+miningpoolstats.stream  | [https://miningpoolstats.stream/btcturquoise)](https://miningpoolstats.stream/btcturquoise)
 Mining Dutch            | [https://www.mining-dutch.nl/](https://www.mining-dutch.nl/)
 RPlant                  | [https://pool.rplant.xyz/](https://pool.rplant.xyz/)
 CoinXPool               | [https://coinxpool.com/](https://coinxpool.com/)
