@@ -57,6 +57,13 @@ Coin Miners Info Pool   | [https://pool.coin-miners.info/](https://pool.coin-min
 YourMissingPool         | [https://your-missing-pool.com/](https://your-missing-pool.com/)
 ZergPool                | [https://zergpool.com/](https://zergpool.com/)
 
+### Exchanges available
+| Exchanges            | Link                                             |
+|----------------------|-------------------------------------------------------|
+| BTCQ/USDT Trade     | [NonKYC](https://nonkyc.io/market/BTCQ_USDT)          |
+| BTCQ/DOGE Trade     | [NonKYC](https://nonkyc.io/market/BTCQ_DOGE)          |
+| BTCQ/USDT Trade     | [FinanceX](https://financex.trade/trading/btcqusdt)   |
+| BTCQ/LTC Trade      | [FinanceX](https://financex.trade/trading/btcqltc)    |
 
 ### Additional Resources:
 | Resource         | Link                                                 |
