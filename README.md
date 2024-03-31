@@ -60,8 +60,6 @@ ZergPool                | [https://zergpool.com/](https://zergpool.com/)
 ### Exchanges available
 | Exchanges            | Link                                             |
 |----------------------|-------------------------------------------------------|
-| BTCQ/USDT Trade     | [NonKYC](https://nonkyc.io/market/BTCQ_USDT)          |
-| BTCQ/DOGE Trade     | [NonKYC](https://nonkyc.io/market/BTCQ_DOGE)          |
 | BTCQ/USDT Trade     | [FinanceX](https://financex.trade/trading/btcqusdt)   |
 | BTCQ/LTC Trade      | [FinanceX](https://financex.trade/trading/btcqltc)    |
 
