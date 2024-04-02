@@ -50,12 +50,7 @@ Available Pools:
 Pool Name               | Link
 ------------------------|------------------------------------
 miningpoolstats.stream  | [https://miningpoolstats.stream/btcturquoise)](https://miningpoolstats.stream/btcturquoise)
-Mining Dutch            | [https://www.mining-dutch.nl/](https://www.mining-dutch.nl/)
-RPlant                  | [https://pool.rplant.xyz/](https://pool.rplant.xyz/)
-CoinXPool               | [https://coinxpool.com/](https://coinxpool.com/)
-Coin Miners Info Pool   | [https://pool.coin-miners.info/](https://pool.coin-miners.info/)
-YourMissingPool         | [https://your-missing-pool.com/](https://your-missing-pool.com/)
-ZergPool                | [https://zergpool.com/](https://zergpool.com/)
+------------------------|------------------------------------
 
 ### Exchanges available
 | Exchanges            | Link                                             |
