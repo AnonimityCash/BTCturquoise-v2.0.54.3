@@ -50,7 +50,6 @@ Available Pools:
 Pool Name               | Link
 ------------------------|------------------------------------
 miningpoolstats.stream  | [https://miningpoolstats.stream/btcturquoise)](https://miningpoolstats.stream/btcturquoise)
-------------------------|------------------------------------
 
 ### Exchanges available
 | Exchanges            | Link                                             |
