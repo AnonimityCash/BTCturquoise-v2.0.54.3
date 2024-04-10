@@ -58,6 +58,13 @@ miningpoolstats.stream  | [https://miningpoolstats.stream/btcturquoise)](https:/
 | BTCQ/LTC Trade      | [FinanceX](https://financex.trade/trading/btcqltc)    |
 | BTCQ/USDT Trade     | [Bimex](https://bimex.live/trade/index/market/btcq_usdt)   |
 
+### Masternodes platform available for BTCQ
+
+| Masternode                | Link                                                     |
+|--------------------------|----------------------------------------------------------|
+| NodesReward Coin Stats   | [View BTCQ Stats on NodesReward](https://nodesreward.com/coinstats/btcturquoise) |
+| Pecunia Platform Stats   | [Check Out BTCQ Stats on Pecunia Platform](https://pecuniaplatform.io/coin-stats/btcturquoise) |
+
 ### Additional Resources:
 | Resource         | Link                                                 |
 |------------------|------------------------------------------------------|
