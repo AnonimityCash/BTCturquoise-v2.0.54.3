@@ -68,7 +68,8 @@ miningpoolstats.stream  | [https://miningpoolstats.stream/btcturquoise)](https:/
 ### Additional Resources:
 | Resource         | Link                                                 |
 |------------------|------------------------------------------------------|
-| Block Explorer   | [https://explorer.btcturquoise.online](https://explorer.btcturquoise.online) |
+| Block Explorer 1  | [https://explorer.btcturquoise.online](https://explorer.btcturquoise.online) |
+| Block Explorer 2 | [https://btcq-explorer.coin-miners.info](https://btcq-explorer.coin-miners.info) |
 | Website          | [https://btcturquoise.com](https://btcturquoise.com) |
 ------------------------------------------------------------------------------------------------
 ### Contact and Social Media Links:
