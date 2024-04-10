@@ -56,6 +56,7 @@ miningpoolstats.stream  | [https://miningpoolstats.stream/btcturquoise)](https:/
 |----------------------|-------------------------------------------------------|
 | BTCQ/USDT Trade     | [FinanceX](https://financex.trade/trading/btcqusdt)   |
 | BTCQ/LTC Trade      | [FinanceX](https://financex.trade/trading/btcqltc)    |
+| BTCQ/USDT Trade     | [Bimex](https://bimex.live/trade/index/market/btcq_usdt)   |
 
 ### Additional Resources:
 | Resource         | Link                                                 |
