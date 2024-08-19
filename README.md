@@ -54,9 +54,8 @@ miningpoolstats.stream  | [https://miningpoolstats.stream/btcturquoise)](https:/
 ### Exchanges available
 | Exchanges            | Link                                             |
 |----------------------|-------------------------------------------------------|
-| BTCQ/USDT Trade     | [FinanceX](https://financex.trade/trading/btcqusdt)   |
-| BTCQ/LTC Trade      | [FinanceX](https://financex.trade/trading/btcqltc)    |
-| BTCQ/USDT Trade     | [Bimex](https://bimex.live/trade/index/market/btcq_usdt)   |
+| BTCQ/USDT Trade     | [FinanceX](https://fcex.trade/trading/btcqusdt)   |
+| BTCQ/LTC Trade      | [FinanceX](https://fcex.trade/trading/btcqltc)    |
 
 ### Masternodes platform available for BTCQ
 
